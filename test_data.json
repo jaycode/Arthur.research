@@ -1,0 +1,50 @@
+[
+    {
+        "id": "348418",
+        "images": [],
+        "address": "3150 Rutland Rd, Victoria, British Columbia V8R4R8",
+        "price": 7500000,
+        "price_currency": "USD",
+        "property_type": "single family",
+        "building_type": "house",
+        "land_size": 0.9065,
+        "land_size_unit": "hec",
+        "built_in": 1914,
+        "title": "freehold",
+        "parking_type": "garage",
+        "total_rooms": 7,
+        "total_bathrooms": 9,
+        "description": "VICTORIA'S CROWN JEWEL OF WATERFRONT ESTATES. Nestled on a quiet cove in the exclusive Uplands neighborhood of Oak Bay, this one of a kind, 2.24 ac manicured property offers over 700 ft. of waterfront, including a secluded beach, & 3 islets providing protected seasonal moorage. The timeless mansion, has undergone a graceful multi-million dollar restoration, features generous living spaces, high ceilings, hardwood floors, & world class views from virtually every room. Separate guest acc, wine room, theatre, yoga studio, lap pool & dock, complete the package. Minutes to downtown Victoria, golf courses, marinas, & everything Victoria has to offer, this is a rare once in a lifetime offering. sylvia@sylviatherrien.ca for info.",
+        "features": ["cul-de-sac", "private setting"],
+        "view": ["view of water"],
+        "waterfront": ["waterfront on ocean"],
+        "zoning_id": ["residential"],
+        "floor_space": 1025.742,
+        "floor_space_unit": "m2",
+        "style": ["detached"],
+        "walk_score": 6,
+        "walk_score_detail": "car-dependent",
+        "agent_name": "Sylvia Therrien",
+        "agent_job_desc": "personal real estate corporation",
+        "agent_company_name": "Newport Realty",
+        "agent_company_address": "1286 Fairfield Rd, Victoria, bc V8V4W3",
+        "agent_company_phone": "250-385-2033",
+        "agent_company_fax": "250-385-3763"
+    },
+    {
+        "id": "10090891",
+        "rooms": [
+            {
+                "level": "second level",
+                "type": "bedroom",
+                "dimensions": [4.6736, 3.048],
+                "dimensions_unit": "m"
+            }
+        ],
+        "land": {
+            "fencing": "fence",
+            "landscape_features": ["garden area", "underground sprinkler"],
+            "surface_water": ["well(s)"]
+        }
+    }
+]

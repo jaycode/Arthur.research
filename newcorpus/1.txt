@@ -1,0 +1,2 @@
+This is a foo bar sentence.
+And this is the first txtfile in the corpus.

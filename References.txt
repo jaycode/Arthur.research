@@ -1,0 +1,2 @@
+1. 	Carlson A, Schafer C. Bootstrapping Information Extraction from Semi-structured Web Pages. Machine Learning and Knowledge Discovery in Databases. Springer Berlin Heidelberg; 2008. pp. 195–210.
+2. 	Zhai Y, Liu B. Web Data Extraction Based on Partial Tree Alignment. Proceedings of the 14th International Conference on World Wide Web. New York, NY, USA: ACM; 2005. pp. 76–85.
